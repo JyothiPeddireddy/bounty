@@ -1,0 +1,12 @@
+declaration=property+value
+css=
+1.
+way to apply the color
+<style>
+element{
+    property:value;
+    </style>
+}
+2.
+write two codes, one is html codes and another one is css code.
+3.file save with .html , .css extentions
